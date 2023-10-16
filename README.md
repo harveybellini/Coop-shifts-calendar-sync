@@ -1,4 +1,4 @@
-#Sync my Co-op Shifts with my Google Calendar
+# Sync my Co-op Shifts with my Google Calendar
 
 Use the Co-op API to add Calendar functionality to the shifts site via a python Script
 
